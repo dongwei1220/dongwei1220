@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/wangsrGit119">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&layout=compact&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&layout=compact&theme=dark" />
 </a>
 
----
 
 ### Hi there
 
