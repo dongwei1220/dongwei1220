@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Davey’s Github Stats](https://github-readme-stats.vercel.app/api?username=dongwei1220&show_icons=true&theme=dark&count_private=T) 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&theme=dark&layout=compact&langs_count=8&card_width=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&theme=dark&layout=compact&langs_count=8&card_width=500)
 
 
 ### Hi there
