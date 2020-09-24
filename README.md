@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Davey’s Github Stats](https://github-readme-stats.vercel.app/api?username=dongwei1220&show_icons=true&theme=dark) 
+![Davey’s Github Stats](https://github-readme-stats.vercel.app/api?username=dongwei1220&show_icons=true&theme=dark&count_private=T) 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwei1220&theme=dark&layout=compact&langs_count=8&card_width=10)
+
 
 ### Hi there
 
