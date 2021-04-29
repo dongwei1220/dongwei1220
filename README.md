@@ -35,5 +35,7 @@ Here are some ideas to get you started:
 [博客](http://bioinfomics.top/) and
 [微信公众号: bioinfomics](https://i.loli.net/2020/09/23/Dhr9dZ4lbATW5ox.png).
 
+[![jianshu](https://img.shields.io/badge/董炜-简书-yellow)](https://www.jianshu.com/u/d27c7f02a323) [![wechat](https://img.shields.io/badge/董炜-微信公众号-important)](https://i.loli.net/2020/09/23/Dhr9dZ4lbATW5ox.png) [![blog](https://img.shields.io/badge/董炜-博客-blueviolet)](http://bioinfomics.top/)  [![yuque](https://img.shields.io/badge/董炜-语雀-blue)](https://www.yuque.com/davey-brweo) [![zhihu](https://img.shields.io/badge/董炜-知乎-ff69b4)](https://www.zhihu.com/people/davey1220) 
+
 ### Research
 [**My ResearchGate Profile**](https://www.researchgate.net/profile/Wei_Dong34)
